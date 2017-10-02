@@ -1,0 +1,18 @@
+body{
+  text-align: center;
+}
+
+.title{
+  padding: 25px 0px 20px 0px;
+  width: 100%;
+  font-family: 'Bitter', serif;
+}
+
+.info{
+  padding: 0px 40px 0px 40px;
+  font-family: 'Roboto', sans-serif;
+}
+
+.info-group{
+  margin-bottom: 30px;
+}
